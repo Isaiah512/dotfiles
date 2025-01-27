@@ -1,0 +1,29 @@
+<?xml version="1.1" encoding="UTF-8"?>
+
+<channel name="xfce4-desktop" version="1.0">
+  <property name="backdrop" type="empty">
+    <property name="screen0" type="empty">
+      <property name="monitoreDP" type="empty">
+        <property name="workspace0" type="empty">
+          <property name="last-image" type="string" value="/home/isaiah/Wallpapers/24071790053_d1_town_04_rg.jpg"/>
+        </property>
+        <property name="workspace1" type="empty">
+          <property name="last-image" type="string" value="/home/isaiah/Wallpapers/24071790053_d1_town_04_rg.jpg"/>
+          <property name="image-style" type="int" value="5"/>
+        </property>
+      </property>
+    </property>
+    <property name="single-workspace-mode" type="bool" value="true"/>
+    <property name="single-workspace-number" type="int" value="1"/>
+  </property>
+  <property name="last" type="empty">
+    <property name="window-width" type="int" value="574"/>
+    <property name="window-height" type="int" value="462"/>
+  </property>
+  <property name="desktop-icons" type="empty">
+    <property name="icon-size" type="uint" value="60"/>
+    <property name="tooltip-size" type="double" value="64"/>
+    <property name="show-tooltips" type="bool" value="true"/>
+  </property>
+  <property name="last-settings-migration-version" type="uint" value="1"/>
+</channel>

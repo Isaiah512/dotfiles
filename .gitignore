@@ -1,0 +1,5 @@
+# Exclude non-essential or sensitive files
+./xfce4/xfconf/xfce-perchannel-xml/displays.xml  # Monitor configuration
+./xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml  # Personal shortcuts
+
+
